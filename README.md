@@ -10,8 +10,6 @@
 
 Um arquivo comunitário, aberto e transparente focado em documentar a história, a mecânica e os status das principais falhas e exploits do Minecraft.
 
-[🌐 Acessar o Site](https://seu-projeto.vercel.app) • [🎮 Discord do Servidor](https://discord.gg/seu-link)
-
 </div>
 
 ---
