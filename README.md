@@ -35,7 +35,7 @@ O projeto é **100% open source** e mantido pela comunidade! Para adicionar um d
 1. Faça um **Fork** deste repositório.
 2. Crie um arquivo `.json` dentro da pasta `/database` (exemplo: `donkey-portal-1-12.json`).
 3. Adicione o nome do seu arquivo na lista dentro de `/database/index.json`.
-4. Se for adicionar imagens, envie para a pasta `/image` respeitando o limite de **50 MB** por arquivo.
+4. Se for adicionar imagens NO GTIHUB (você pode subir para outros sites), envie para a pasta `/image` respeitando o limite de **50 MB** por arquivo.
 5. Abra um **Pull Request** explicando brevemente a adição!
 
 ---
