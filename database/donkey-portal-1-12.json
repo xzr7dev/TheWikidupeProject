@@ -1,0 +1,10 @@
+{
+  "id": "donkey-portal-1-12",
+  "title": "Donkey Portal Desync",
+  "version": "1.12.2",
+  "type": "Entity / Chunk",
+  "working_on_anarchy": true,
+  "description": "Desincronização de pacotes usando burros/mulas equipados com baú atravessando portais do End/Nether para forçar a duplicação do inventário da entidade.",
+  "video_url": "",
+  "image_url": ""
+}

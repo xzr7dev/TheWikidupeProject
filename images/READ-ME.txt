@@ -1,0 +1,7 @@
+ENGLISH
+Only upload photo files to this folder.
+Only upload files here if they are no larger than 50MB.
+
+PORTUGUÊS
+Carregue apenas arquivos de foto nessa pasta.
+Carregue arquivos aqui apenas se não ultrapassarem 50 MB.
