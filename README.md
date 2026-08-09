@@ -24,10 +24,9 @@ O **The WikiDupe Project** tem como objetivo registrar a engenharia por trás do
 
 ## 🕹️ Servidor de Anarquia Oficial
 
-Quer testar mecânicas de Crystal PvP, dupes liberados e jogar sem frescura? Conecte no nosso servidor:
+Quer testar dupes liberados e jogar sem frescura? Conecte no nosso servidor:
 
-* **IP:** `anarchy.seuservidor.com`
-* **Versão:** $1.21.11$
+* **IP:** `2b1t.mc-world.net`
 
 ---
 
