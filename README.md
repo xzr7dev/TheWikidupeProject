@@ -50,6 +50,6 @@ O projeto é **100% open source** e mantido pela comunidade! Para adicionar um d
   "type": "GUI / Drop",
   "working_on_anarchy": false,
   "description": "Explicação breve de como o exploit funcionava.",
-  "video_url": "[https://youtube.com/watch?v=](https://youtube.com/watch?v=)...",
+  "video_url": "https://youtube.com/watch?v=",
   "image_url": "image/sua-imagem.png"
 }
