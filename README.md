@@ -5,7 +5,7 @@
 > **The community-driven Minecraft Dupe & Exploit Archive.**
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-GPLv3-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 Um arquivo comunitário, aberto e transparente focado em documentar a história, a mecânica e os status das principais falhas e exploits do Minecraft.
