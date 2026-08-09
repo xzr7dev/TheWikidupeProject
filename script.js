@@ -22,7 +22,7 @@ function renderCard(dupe) {
     const grid = document.getElementById('dupesGrid');
     
     const statusClass = dupe.working_on_anarchy ? 'status-active' : 'status-patched';
-    const statusText = dupe.working_on_anarchy ? 'ACTIVE ON ANARCHY' : 'PATCHED';
+    const statusText = dupe.working_on_anarchy ? 'Funcionando/Working' : 'PATCHED';
 
     const cardHTML = `
         <div class="card" data-title="${dupe.title.toLowerCase()}" data-version="${dupe.version}">
@@ -75,5 +75,4 @@ function copyIP() {
     }, 2000);
 }
 
-// Inicializa a aplicação
 loadDupes();
